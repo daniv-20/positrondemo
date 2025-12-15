@@ -3,6 +3,7 @@ this is a test file to make a merge conflict!
 test
 test
 test
+THE REAL MERGE CONFLICT
 test
 test
 test
